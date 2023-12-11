@@ -8,6 +8,7 @@ This repository contains a demo for the GPT-SW3 model. It includes a Jupyter not
 
 2. Download the weights for the model as instructed in the notebook.
 
+
 ## Running the Streamlit App
 
 After downloading the model weights, you can run the Streamlit app to interact with the GPT-SW3 model in a chatbot interface.
