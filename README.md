@@ -4,9 +4,15 @@ This repository contains a demo for the GPT-SW3 model. It includes a Jupyter not
 
 ## Getting Started
 
-1. Start by exploring the provided Jupyter notebook. This will give you a good understanding of how the model works.
+1. Clone this repository to your local machine using the following command:
 
-2. Download the weights for the model as instructed in the notebook.
+```bash
+git clone git@github.com:Matars/gpt-sw3-demo.git
+```
+
+2. Start by exploring the provided Jupyter notebook. This will give you a good understanding of how the model works.
+
+3. Download the weights for the model as instructed in the notebook.
 
 
 ## Running the Streamlit App
