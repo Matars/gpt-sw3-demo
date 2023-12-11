@@ -10,10 +10,15 @@ This repository contains a demo for the GPT-SW3 model. It includes a Jupyter not
 git clone git@github.com:Matars/gpt-sw3-demo.git
 ```
 
+or
+
+```bash
+git clone https://github.com/Matars/gpt-sw3-demo
+```
+
 2. Start by exploring the provided Jupyter notebook. This will give you a good understanding of how the model works.
 
 3. Download the weights for the model as instructed in the notebook.
-
 
 ## Running the Streamlit App
 
